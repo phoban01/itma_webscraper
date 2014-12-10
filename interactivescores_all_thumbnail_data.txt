@@ -1,0 +1,45 @@
+1	Allan’s ‘Irish Fiddler’ - Cover , http://www.itma.ie/digitallibrary/score/allans-irish-fiddler , /images/made/images/uploads/allans_150_100_c1_center_top.jpg
+2	Amhráin Mhuighe Seóla: Traditional Folk-Songs from Galway and Mayo - Cover , http://www.itma.ie/digitallibrary/score/AMS , /images/made/images/uploads/seoladh_150_100_c1_center_top.jpg
+3	Ancient Irish Music - Cover , http://www.itma.ie/digitallibrary/score/ancient-irish-music-joyce , /images/made/images/uploads/ancientirishmusic_150_100_c1_center_top.jpg
+4	Claisceadal leaflets - Cover , http://www.itma.ie/digitallibrary/score/claisceadal , /images/made/images/uploads/claisceadal001_150_100_c1_center_top.jpg
+5	Clark / O’Connell music manuscript - Cover , http://www.itma.ie/digitallibrary/score/clark-oconnell-manuscript , /images/made/images/uploads/curtin_150_100_c1_center_top.jpg
+6	A Nineteenth-Century Sliabh Luachra Manuscript - Cover , http://www.itma.ie/digitallibrary/score/curtin-manuscript , /images/made/images/uploads/ganly_110_150_100_c1_center_top.jpg
+7	‘Poblacht na hÉireann’: A Buenos Aires & Westmeath Mystery of 1918 - Cover , http://www.itma.ie/digitallibrary/score/ganly-poblacht-na-heireann , /images/made/images/uploads/goodman019_150_100_c1_center_top.jpg
+8	Tunes of the Munster Pipers 1–100 - Cover , http://www.itma.ie/digitallibrary/score/goodman , /images/made/images/uploads/goodman019_150_100_c1_center_top.jpg
+9	Tunes of the Munster Pipers 101–200 - Cover , http://www.itma.ie/digitallibrary/score/goodman2 , /images/made/images/uploads/goodman019_150_100_c1_center_top.jpg
+10	Tunes of the Munster Pipers 201–300 - Cover , http://www.itma.ie/digitallibrary/score/goodman3 , /images/made/images/uploads/goodman019_150_100_c1_center_top.jpg
+11	Tunes of the Munster Pipers 301–400 - Cover , http://www.itma.ie/digitallibrary/score/goodman4 , /images/made/images/uploads/goodman019_150_100_c1_center_top.jpg
+12	Tunes of the Munster Pipers 401–515 - Cover , http://www.itma.ie/digitallibrary/score/goodman5 , /images/made/images/uploads/himecover2_150_100_c1_center_top.jpg
+13	Forty Eight Original Irish Dances Never Before Printed, c. 1795–1800 - Cover , http://www.itma.ie/digitallibrary/score/hime-48-original-irish-dances , /images/made/images/uploads/irishmusicandsong_150_100_c1_center_top.jpg
+14	Irish Music and Song - Cover , http://www.itma.ie/digitallibrary/score/irish-music-and-song-joyce , /images/made/images/uploads/irishpeasantsongs2_150_100_c1_center_top.jpg
+15	Irish Peasant Songs - Cover , http://www.itma.ie/digitallibrary/score/irish-peasant-songs-1906 , /images/made/images/uploads/3065-BK_150_100_c1_center_top.jpg
+16	Accordion Instructor for the Irish-Style Accordion - Cover , http://www.itma.ie/digitallibrary/score/JOB_ACC1 , /images/made/images/uploads/7383-BK_150_100_c1_center_top.jpg
+17	Irish Folk Dance Music 1-100 - Cover , http://www.itma.ie/digitallibrary/score/JOB_IFDM1 , /images/made/images/uploads/7383-BK_150_100_c1_center_top.jpg
+18	Irish Folk Dance Music 101-170 - Cover , http://www.itma.ie/digitallibrary/score/JOB_IFDM2 , /images/made/images/uploads/petrie1855_150_100_c1_center_top.jpg
+19	Tunes from PW Joyce in Petrie’s Ancient Music of Ireland, 1855 - Cover , http://www.itma.ie/digitallibrary/score/joyce-in-petrie-1855 , /images/made/images/uploads/petrie1882_150_100_c1_center_top.jpg
+20	Tunes from PW Joyce in Petrie’s Music of Ireland, 1882 - Cover , http://www.itma.ie/digitallibrary/score/joyce-in-petrie-1882 , /images/made/images/uploads/stanfordpetrie_150_100_c1_center_top.jpg
+21	Tunes from PW Joyce in Stanford-Petrie, 1902 - Cover , http://www.itma.ie/digitallibrary/score/joyce-in-stanford-petrie-1902 , /images/made/images/uploads/10374-BK_150_100_c1_center_top.jpg
+22	How to Play the Globe Accordeon Irish Style - Cover , http://www.itma.ie/digitallibrary/score/Morrison_accordion-tutor , /images/made/images/uploads/neal_150_100_c1_center_top.jpg
+23	Neal’s Celebrated Irish Tunes - Cover , http://www.itma.ie/digitallibrary/score/neal , /images/made/images/uploads/ms2982_150_100_c1_center_top.jpg
+24	PW Joyce manuscripts, National Library of Ireland, 1889-1912 : Part I - Cover , http://www.itma.ie/digitallibrary/score/nli-joyce-ms-2982 , /images/made/images/uploads/ms2983_150_100_c1_center_top.jpg
+25	PW Joyce manuscripts, National Library of Ireland, 1856 - Cover , http://www.itma.ie/digitallibrary/score/nli-joyce-ms-j25 , /images/made/images/uploads/mj25_150_100_c1_center_top.jpg
+26	Old Irish Folk Music and Songs: Part I Joyce Collection - Cover , http://www.itma.ie/digitallibrary/score/old-irish-folk-music-and-songs-part-1 , /images/made/images/uploads/oldirishfolkmusic_150_100_c1_center_top.jpg
+27	Old Irish Folk Music and Songs: Part II Joyce Collection - Cover , http://www.itma.ie/digitallibrary/score/old-irish-folk-music-and-songs-part-2 , /images/made/images/uploads/oldirishfolkmusic_150_100_c1_center_top.jpg
+28	Old Irish Folk Music and Songs: Part III Forde Collection - Cover , http://www.itma.ie/digitallibrary/score/old-irish-folk-music-and-songs-part-3 , /images/made/images/uploads/oldirishfolkmusic_150_100_c1_center_top.jpg
+29	Old Irish Folk Music and Songs: Part IV Pigot Collection - Cover , http://www.itma.ie/digitallibrary/score/old-irish-folk-music-and-songs-part-4 , /images/made/images/uploads/oldirishfolkmusic_150_100_c1_center_top.jpg
+30	Pádraig O’Keeffe ITMA-Collins Manuscripts, Book 1: Fiddle - Cover , http://www.itma.ie/digitallibrary/score/padraig-okeeffe-itma-collins-manuscripts-book-1-fiddle , /images/made/images/uploads/padraigok_150_100_c1_center_top.jpg
+31	Pádraig O’Keeffe ITMA-Collins Manuscripts, Book 2: Fiddle - Cover , http://www.itma.ie/digitallibrary/score/padraig-okeeffe-itma-collins-manuscripts-book-2-fiddle , /images/made/images/uploads/padraigok_150_100_c1_center_top.jpg
+32	Pádraig O’Keeffe ITMA-Collins Manuscripts, Book 3: Accordion - Cover , http://www.itma.ie/digitallibrary/score/padraig-okeeffe-itma-collins-manuscripts-book-3-accordion , /images/made/images/uploads/padraigok_150_100_c1_center_top.jpg
+33	Pádraig O’Keeffe ITMA-Collins Manuscripts, Book 4 (miscellaneous pages): Fiddle - Cover , http://www.itma.ie/digitallibrary/score/padraig-okeeffe-itma-collins-manuscripts-book-4-miscellaneous-pages-fiddle , /images/made/images/uploads/padraigok_150_100_c1_center_top.jpg
+34	Collection of Irish Airs, Marches & Dance Tunes….. by F. Roche, Vol. 1, 1-100 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-1_1-100 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+35	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 1, 101-199 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-1_101-199 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+36	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 2, 200-295 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-2_200-295 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+37	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 2, 296-354 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-2_296-354 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+38	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 3, 1-96 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-3_1-96 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+39	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 3, 184-217 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-3_184-217 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+40	Collection of Irish Airs, Marches & Dance Tunes…. by F. Roche, Vol. 3, 97-183 - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-3_97-183 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+41	Airs and Fantasies, Vol. 4 / Frank Roche - Cover , http://www.itma.ie/digitallibrary/score/roche_vol-4 , /images/made/images/uploads/rochecover_150_100_c1_center_top.jpg
+42	Ryan’s Mammoth Collection 1 – 300 - Cover , http://www.itma.ie/digitallibrary/score/ryans-mammoth-collection , /images/made/images/uploads/ryansfrontcover_150_100_c1_center_top.jpg
+43	Ryan’s Mammoth Collection 301 – 600 - Cover , http://www.itma.ie/digitallibrary/score/ryans-mammoth-collection-2 , /images/made/images/uploads/ryansfrontcover_150_100_c1_center_top.jpg
+44	Ryan’s Mammoth Collection 601 – 800 - Cover , http://www.itma.ie/digitallibrary/score/ryans-mammoth-collection-3 , /images/made/images/uploads/ryansfrontcover_150_100_c1_center_top.jpg
+45	Ryan’s Mammoth Collection 801 – 1051 - Cover , http://www.itma.ie/digitallibrary/score/ryans-mammoth-collection-4 , /images/made/images/uploads/ryansfrontcover_150_100_c1_center_top.jpg
